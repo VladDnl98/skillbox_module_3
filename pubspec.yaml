@@ -28,4 +28,6 @@ flutter:
   assets:
   - assets/svg/
   - assets/image/
+  - assets/image/lemour.jpg
+  - assets/image/lion.jpg
   
