@@ -1,4 +1,5 @@
-// Flutter imports://Задание 3
+//Задание 3
+// Flutter imports:
 import 'package:flutter/material.dart';
 
 // Package imports:
